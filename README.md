@@ -1,0 +1,1 @@
+# Projecto to connect a little local service to Serial Port Comunication. 
